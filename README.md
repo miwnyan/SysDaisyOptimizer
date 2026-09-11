@@ -166,10 +166,4 @@ Se este projeto te ajudou, considere dar uma ⭐ no repositório!
 
 </div>
 
----
----
-- 📝 Um **CHANGELOG.md** inicial
-- 🤝 Um **CONTRIBUTING.md**
-- ⚙️ Um **template de Issue** para bugs
 
-É só avisar! 🌼
