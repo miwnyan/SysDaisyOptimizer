@@ -1,10 +1,6 @@
 ---
 
 # 🌼 SysDaisy Optimizer
-
-> **Otimizador profundo para Windows com visual delicado e desempenho real.**
-> Uma ferramenta completa de otimização, limpeza e ajustes avançados — com tema de margarida, interface confortável e foco em **desempenho real**, não em promessas vazias.
-
 ---
 
 ## 📖 Sobre o Projeto
