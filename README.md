@@ -5,12 +5,6 @@
 > **Otimizador profundo para Windows com visual delicado e desempenho real.**
 > Uma ferramenta completa de otimização, limpeza e ajustes avançados — com tema de margarida, interface confortável e foco em **desempenho real**, não em promessas vazias.
 
-![Status](https://img.shields.io/badge/status-stable-brightgreen)
-![Version](https://img.shields.io/badge/version-1.0-blue)
-![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6)
-![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE)
-![License](https://img.shields.io/badge/license-MIT-green)
-
 ---
 
 ## 📖 Sobre o Projeto
